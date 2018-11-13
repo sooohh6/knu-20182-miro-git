@@ -8,9 +8,9 @@ README.md 작성법 </br>
 https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 ### Participants
-
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 <name>, <username>, <email> </br>
-  
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ##### 김수현, Suhhny, gerang9119@gmail.com </br>
 
 
