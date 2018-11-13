@@ -1,6 +1,17 @@
 # knu-20182-miro-git
 
-### Markdown 사용법
+miro git & github 실습
 
-= README.md 작성법
-https://gist.github.com/ihoneymon/652be052a0727ad59601.js
+### Markdown
+
+README.md 작성법 </br>
+https://gist.github.com/ihoneymon/652be052a0727ad59601
+
+### Participants
+
+<name>, <username>, <email> </br>
+  
+##### 김수현, Suhhny, gerang9119@gmail.com </br>
+
+
+
